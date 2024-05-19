@@ -2,13 +2,8 @@
     margin-top: 5.5%;
 }
 
-#welcomeHero { 
-    outline: 2px solid red; 
-}
-
 #aboutMe {
-    padding-left: 2%;
-    
+    padding-left: 2%;    
     font-size: larger;
     font-weight: 500;
 }
