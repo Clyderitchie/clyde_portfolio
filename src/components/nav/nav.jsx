@@ -19,7 +19,7 @@ function Nav() {
                                     Projects
                                 </h3>
                             </Link>
-                            <Link id='nav2' to='/'>
+                            <Link id='nav2' to='/aboutme'>
                                 <h3>
                                     About
                                 </h3>
