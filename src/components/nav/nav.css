@@ -5,6 +5,13 @@
     border-bottom: 1px solid black;
 }
 
+#nav {
+    width: 30%;
+    text-decoration: none; 
+    color: black;
+
+}
+
 #navMe {
     padding-left: 2%;
 }
