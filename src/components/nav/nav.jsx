@@ -16,7 +16,7 @@ function Nav() {
                             </h1>
                         </Link>
                         <div id='navLinks'>
-                            <Link id='nav1' to='/'>
+                            <Link id='nav1' to='/projects'>
                                 <h3>
                                     Projects
                                 </h3>

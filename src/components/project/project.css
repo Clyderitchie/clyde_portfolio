@@ -18,10 +18,33 @@
     flex-direction: column;
 }
 
-#project1, #project2, #project3, #project4 {
-    /* outline: 2px solid green; */
+#project1,
+#project2,
+#project3,
+#project4 {
     min-width: fit-content;
     max-width: fit-content;
     margin-top: 20%;
     margin-bottom: 10%;
+}
+
+#projectPicHomepage1,
+#projectPicHomepage2 {
+    outline: 1px solid black;
+    max-width: 500px;
+    min-width: 75%;
+    max-height: 300px;
+    min-height: 75%;
+}
+
+#projectInfo1,
+#projectInfo2,
+#projectInfo3,
+#projectInfo4,
+#projectLink1,
+#projectLink2,
+#projectLink3,
+#projectLink4 {
+    text-decoration: none;
+    color: black;
 }
