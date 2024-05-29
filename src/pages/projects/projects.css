@@ -1,0 +1,35 @@
+#projectOutsideContainer {
+    margin-top: 2%;
+}
+
+#projectContent1 {
+    display: flex;
+    justify-content: start  ;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#projectPage1, #projectPage2, #projectPage3 {
+    outline: 2px solid red;
+    padding: .5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+
+#ProjectPageTitle {
+    margin-top: 2%;
+    padding: 1%;
+    text-align: center;
+    max-width: 75%;
+    min-width: 25%;
+}
+
+#projectPic1, #projectPic2 {
+    outline: 1px solid black;
+    max-width: 500px;
+    min-width: 75%;
+    max-height: 300px;
+    min-height: 75%;
+}
