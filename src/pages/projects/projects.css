@@ -4,13 +4,15 @@
 
 #projectContent1 {
     display: flex;
-    justify-content: start  ;
+    justify-content: start;
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
 }
 
-#projectPage1, #projectPage2, #projectPage3 {
+#projectPage1,
+#projectPage2,
+#projectPage3 {
     padding: .5%;
     margin-left: 5%;
     margin-right: 5%;
@@ -18,14 +20,18 @@
 }
 
 #ProjectPageTitle {
+    outline: 2px solid red;
     margin-top: 2%;
+    margin-bottom: 5%;
     padding: 1%;
     text-align: center;
-    max-width: 75%;
+    max-width: 100%;
     min-width: 25%;
 }
 
-#projectPic1, #projectPic2, #projectPic3 {
+#projectPic1,
+#projectPic2,
+#projectPic3 {
     outline: 1px solid black;
     max-width: 500px;
     min-width: 75%;
