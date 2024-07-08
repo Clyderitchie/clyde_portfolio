@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 import './contact.css';
+import contactPic from './contactPhoto.jpg';
 
 function Contact() {
 
@@ -38,7 +39,7 @@ function Contact() {
 
                         </div>
                         <div id='contact3'>
-                            <img id='contactPagePic' src="src/assets/contactPhoto.jpg" alt="Picture from Ruby Beach Haystack" />
+                            <img id='contactPagePic' src={contactPic} alt="Picture from Ruby Beach Haystack" />
                         </div>
                     </div>
                 </div>

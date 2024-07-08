@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 import './about.css';
+import me from "./picOfMe.jpg";
 
 function AboutMe() {
 
@@ -20,7 +21,7 @@ function AboutMe() {
                             </p>
                         </div>
                         <div id='about2'>
-                            <img id='aboutPic' src="src/assets/picOfMe.jpg" alt="Picture of me" />
+                            <img id='aboutPic' src={me} alt="Picture of me" />
                         </div>
                     </div>
                 </div>
