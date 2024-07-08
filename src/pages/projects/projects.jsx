@@ -33,11 +33,11 @@ function ProjectsPage() {
                             </a>
                         </div>
                         <div id='projectPage3'>
-                            <a id='projectPageLink3' href="/" target='_blank'>
-                                <img src="https://placehold.co/500x300" alt="placeholder" />
+                            <a id='projectPageLink3' href="https://haze-community-a1679c79f3fa.herokuapp.com/games/1" target='_blank'>
+                                <img id='projectPic3' src="src/assets/haze.png" alt="Screen shot of Haze Homepage" />
                                 <span id='projectInfo3'>
-                                    <h4>Calculator</h4>
-                                    <p>We can all use some math help</p>
+                                    <h4>Haze</h4>
+                                    <p>A group project to redesign a basic Steam site. </p>
                                 </span>
                             </a>
                         </div>

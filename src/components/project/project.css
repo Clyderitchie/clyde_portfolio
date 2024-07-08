@@ -29,7 +29,8 @@
 }
 
 #projectPicHomepage1,
-#projectPicHomepage2 {
+#projectPicHomepage2,
+#projectPicHomepage3 {
     outline: 1px solid black;
     max-width: 500px;
     min-width: 75%;

@@ -11,7 +11,6 @@
 }
 
 #projectPage1, #projectPage2, #projectPage3 {
-    outline: 2px solid red;
     padding: .5%;
     margin-left: 5%;
     margin-right: 5%;
@@ -26,7 +25,7 @@
     min-width: 25%;
 }
 
-#projectPic1, #projectPic2 {
+#projectPic1, #projectPic2, #projectPic3 {
     outline: 1px solid black;
     max-width: 500px;
     min-width: 75%;
